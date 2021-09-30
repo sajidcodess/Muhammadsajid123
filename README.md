@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammadsajid123
+- 👋 Hi, I’m Muhammad Sajid
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
